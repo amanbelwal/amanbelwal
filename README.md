@@ -2,7 +2,6 @@
 
 ## Passionate about building robust and scalable web applications. Currently focused on mastering the MERN stack and DevOps practices.
 
-... (Other sections)
 
 ## GitHub Stats:
 
