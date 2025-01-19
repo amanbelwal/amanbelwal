@@ -1,16 +1,13 @@
-## Hi there 👋
+# About Me
 
-<!--
-**amanbelwal/amanbelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Passionate about building robust and scalable web applications. Currently focused on mastering the MERN stack and DevOps practices.
 
-Here are some ideas to get you started:
+... (Other sections)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats:
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanbelwal&show_icons=true&theme=dark&count_private=true)](https://github.com/amanbelwal/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanbelwal&layout=compact)](https://github.com/amanbelwal/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanbelwal)](https://git.io/streak-stats)
